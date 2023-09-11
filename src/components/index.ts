@@ -19,6 +19,7 @@ export * from './HelperText';
 export * from './Kbd';
 export * from './Label';
 export * from './ListGroup/ListGroup';
+export * from './MegaMenu';
 export * from './Modal';
 export * from './Navbar';
 export * from './Pagination';
