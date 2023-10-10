@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### Bug Fixes
+
+* **button/theme.ts:** add the missing dark modifier for Button bg color ([#1047](https://github.com/themesberg/flowbite-react/issues/1047)) ([0050aef](https://github.com/themesberg/flowbite-react/commit/0050aef25e93bd38bd517b5da54344099f7eb4bf)), closes [#1045](https://github.com/themesberg/flowbite-react/issues/1045)
+* layout overflow ([#1054](https://github.com/themesberg/flowbite-react/issues/1054)) ([7c5f136](https://github.com/themesberg/flowbite-react/commit/7c5f136035f20050fb14f97627b65fb86046873a))
+
 ### [0.6.4](https://github.com/themesberg/flowbite-react/compare/v0.6.3...v0.6.4) (2023-10-03)
 
 
